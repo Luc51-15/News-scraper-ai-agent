@@ -1,0 +1,7 @@
+beautifulsoup4
+requests
+ollama
+langchain
+langchain-ollama
+langchain-core
+pytest
